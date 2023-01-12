@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFxBaUV4AnwzZgECfb8VrA9SzY0oDtizMJBDc8m8KJ9xXBfYpq2+oDBYp1tPm4VQY7a9GHVewtg2HskNCNOE1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damzxyno\\Desktop\\personal_project\\meleti_backend_api\\src\\meleti_backend_api.SharedKernel\\meleti_backend_api.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damzxyno\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\Damzxyno\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Damzxyno\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

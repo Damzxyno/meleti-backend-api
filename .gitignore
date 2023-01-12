@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+*.vs
+*.editorconfig
+
+
+
 
 # Object files
 *.o
